@@ -1,0 +1,7 @@
+Arthur Bratz: Desenvolvimento das GUIs, 
+
+Artur Costa: Desenvolvimento do programa pelo console, 
+
+Felipe: Desenvolvimento do Banco de Dados, desenvolvimento de GUIs, desenvolvimento de parte da documentação.
+
+Gabriel Dieterich: Desenvolvimento da Página Web,
