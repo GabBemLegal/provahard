@@ -1,7 +1,7 @@
-Arthur Bratz: Desenvolvimento das GUIs, 
+Arthur Bratz: Desenvolvimento das GUIs, desenvolvimento dos executaveis, desenvolvimento de parte da documentação.
 
-Artur Costa: Desenvolvimento do programa pelo console, 
+Artur Costa: Desenvolvimento do programa pelo console, desenvolvimento dos executaveis, desenvolvimento de parte da documentação.
 
-Felipe: Desenvolvimento do Banco de Dados, desenvolvimento de GUIs, desenvolvimento de parte da documentação.
+Felipe: Desenvolvimento do Banco de Dados, desenvolvimento de GUIs, desenvolvimento de parte da documentação, responsavel pelo README, responsavel pela divisão de tarefas.
 
-Gabriel Dieterich: Desenvolvimento da Página Web,
+Gabriel Dieterich: Desenvolvimento da Página Web, desenvolvimento dos executaveis, responsavel pela divisão de tarefas, desenvolvimento de parte da documentação.
